@@ -2,7 +2,7 @@ import { getAuth,GoogleAuthProvider,signOut,onAuthStateChanged,signInWithPopup} 
 import initializeFirebase from "../Pages/Login/Firebase/firebase.init";
 import { useEffect, useState } from "react";
 
-// initialize firebase App
+// initialize firebase Application
 initializeFirebase();
 
 const useFirebase = () =>{
