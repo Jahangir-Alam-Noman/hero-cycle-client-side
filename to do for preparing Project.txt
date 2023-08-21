@@ -1,0 +1,8 @@
+1. install react app project
+2. npm i firebase  [- module - 57 (index_1)]
+3. react router dom
+4. connect bootstrap.min.css,bootstrap.min.js and font awesome css added
+5. React bootstrap install (and inclue this file within- src/index.js[import 'bootstrap/dist/css/bootstrap.min.css';
+])
+
+
